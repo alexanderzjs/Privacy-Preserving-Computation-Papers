@@ -1,5 +1,5 @@
 # 2022 Security Papers and Posters
-## Winter
+## Winter Papers
 1. Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks. Shawn Shan, Arjun Nitin Bhagoji, Haitao Zheng, and Ben Y. Zhao, University of Chicago
 2. Practical Privacy-Preserving Authentication for SSH. Lawrence Roy, Stanislav Lyakhov, Yeongjin Jang, and Mike Rosulek, Oregon State University
 3. Estimating Incidental Collection in Foreign Intelligence Surveillance: Large-Scale Multiparty Private Set Intersection with Union and Sum. Anunay Kulshrestha and Jonathan Mayer, Princeton University
@@ -10,7 +10,7 @@
 8. Batched Differentially Private Information Retrieval. Kinan Dak Albab, Brown University; Rawane Issa and Mayank Varia, Boston University; Kalman Graffi, Honda Research Institute Europe
 9. GPU-accelerated PIR with Client-Independent Preprocessing for Large-Scale Applications. Daniel Günther and Maurice Heymann, Technical University of Darmstadt; Benny Pinkas, Bar-Ilan University; Thomas Schneider, Technical University of Darmstadt
 
-## Fall
+## Fall Papers
 1. Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference. Zhicong Huang, Wen-jie Lu, Cheng Hong, and Jiansheng Ding, Alibaba Group
 2. ppSAT: Towards Two-Party Private SAT Solving. Ning Luo, Samuel Judson, Timos Antonopoulos, and Ruzica Piskac, Yale University; Xiao Wang, Northwestern University
 3. Poisoning Attacks to Local Differential Privacy Protocols for Key-Value Data. Yongji Wu, Xiaoyu Cao, Jinyuan Jia, and Neil Zhenqiang Gong, Duke University
@@ -24,7 +24,7 @@
 11. Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models. Shagufta Mehnaz; The Pennsylvania State University; Sayanton V. Dibbo and Ehsanul Kabir, Dartmouth College; Ninghui Li and Elisa Bertino, Purdue University
 12. FLAME: Taming Backdoors in Federated Learning. Thien Duc Nguyen and Phillip Rieger, Technical University of Darmstadt; Huili Chen, University of California San Diego; Hossein Yalame, Helen Möllering, and Hossein Fereidooni, Technical University of Darmstadt; Samuel Marchal, Aalto University and F-Secure; Markus Miettinen, Technical University of Darmstadt; Azalia Mirhoseini, Google; Shaza Zeitouni, Technical University of Darmstadt; Farinaz Koushanfar, University of California San Diego; Ahmad-Reza Sadeghi and Thomas Schneider, Technical University of Darmstadt
 
-## Summer
+## Summer Papers
 1. Increasing Adversarial Uncertainty to Scale Private Similarity Testing. Yiqing Hua and Armin Namavari, Cornell Tech and Cornell University; Kaishuo Cheng, Cornell University; Mor Naaman and Thomas Ristenpart, Cornell Tech and Cornell University
 2. ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models. Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, and Michael Backes, CISPA Helmholtz Center for Information Security; Emiliano De Cristofaro, UCL and Alan Turing Institute; Mario Fritz and Yang Zhang, CISPA Helmholtz Center for Information Security
 3. PrivGuard: Privacy Regulation Compliance Made Easier. Lun Wang, UC Berkeley; Usmann Khan, Georgia Tech; Joseph Near, University of Vermont; Qi Pang, Zhejiang University; Jithendaraa Subramanian, NIT Tiruchirappalli; Neel Somani, UC Berkeley; Peng Gao, Virginia Tech; Andrew Low and Dawn Song, UC Berkeley
@@ -35,12 +35,9 @@
 8. Label Inference Attacks Against Vertical Federated Learning. Chong Fu, Zhejiang University; Xuhong Zhang and Shouling Ji, Binjiang Institute of Zhejiang University; Jinyin Chen, Zhejiang University of Technology; Jingzheng Wu, Institute of Software, Chinese Academy of Sciences; Shanqing Guo, Shandong University; Jun Zhou and Alex X. Liu, Ant Group; Ting Wang, Pennsylvania State University
 9. SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost. Nishanth Chandran, Divya Gupta, and Sai Lakshmi Bhavana Obbattu, Microsoft Research; Akash Shah, UCLA
 
-Poster 1. Camel: Cryptographic Audits for Collaborative Machine Learning. Hidde Lycklama, Nicolas Küchler, Emanuel Opel, Lukas Burkhalter, and Anwar Hithnawi, ETH Zurich
-
-Poster 2. Identifying Harmful Media in End-to-End Encrypted Communication: Efficient Private Membership Computation. Anunay Kulshrestha and Jonathan Mayer, Princeton University
-
-Poster 3. EIFFeL: Ensuring Integrity for Federated Learning. Amrita Roy Chowdhury, UW-Madison; Chuan Guo, Meta AI; Somesh Jha, UW-Madison; Laurens van der Maaten, Meta AI
-
-Poster 4. Privacy and Integrity Preserving Computations with CRISP. Sylvain Chatel, Apostolos Pyrgelis, Juan Ramon Troncoso Pastoriza, and Jean-Pierre Hubaux, EPFL
-
-Poster 5. Blind Backdoors in Deep Learning Models. Eugene Bagdasaryan and Vitaly Shmatikov, Cornell Tech
+## Posters
+1. Camel: Cryptographic Audits for Collaborative Machine Learning. Hidde Lycklama, Nicolas Küchler, Emanuel Opel, Lukas Burkhalter, and Anwar Hithnawi, ETH Zurich
+2. Identifying Harmful Media in End-to-End Encrypted Communication: Efficient Private Membership Computation. Anunay Kulshrestha and Jonathan Mayer, Princeton University
+3. EIFFeL: Ensuring Integrity for Federated Learning. Amrita Roy Chowdhury, UW-Madison; Chuan Guo, Meta AI; Somesh Jha, UW-Madison; Laurens van der Maaten, Meta AI
+4. Privacy and Integrity Preserving Computations with CRISP. Sylvain Chatel, Apostolos Pyrgelis, Juan Ramon Troncoso Pastoriza, and Jean-Pierre Hubaux, EPFL
+5. Blind Backdoors in Deep Learning Models. Eugene Bagdasaryan and Vitaly Shmatikov, Cornell Tech
