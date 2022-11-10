@@ -1,4 +1,5 @@
-# 2022 S&P Papers and Posters
+# 2022 Papers and Posters
+## Papers
 1. Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Federated Learning. Virat Shejwalkar (UMass Amherst), Amir Houmansadr (UMass Amherst), Peter Kairouz (Google), Daniel Ramage (Google)
 2. BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning. Jinyuan Jia (Duke University, USA), Yupei Liu (Duke University, USA), Neil Zhenqiang Gong (Duke University, USA)
 3. Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models. Jialuo Chen (Zhejiang University), Jingyi Wang (Zhejiang University), Tinglan Peng (Zhejiang University), Youcheng Sun (Queen's University Belfast, UK), Peng Cheng (Zhejiang University), Shouling Ji (Zhejiang University), Xingjun Ma (Deakin University), Bo Li (University of Illinois Urbana-Champaign), Dawn Song (University of California, Berkeley)
@@ -21,10 +22,8 @@
 20. Statistical Quantification of Differential Privacy: A Local Approach. Önder Askin (Ruhr-University Bochum), Tim Kutta (Ruhr-University Bochum), Holger Dette (Ruhr-University Bochum)
 21. Waldo: A Private Time-Series Database from Function Secret-Sharing. Emma Dauterman (UC Berkeley), Mayank Rathee (UC Berkeley), Raluca Popa (UC Berkeley), Ion Stoica (UC Berkeley)
 
-Poster 22: DP-SGD vs PATE: Which Has Less Disparate Impact on Model Accuracy? Archit Uniyal, Rakshit Naidu, Sasikanth Kotti, Sahib Singh, Patrik Joslin Kenfack, Fatemehsadat Mireshghallah, Andrew Trask
-
-Poster 24: Efficient Hyperparameter Optimization for Differentially Private Deep Learning. Aman Priyanshu, Rakshit Naidu, Fatemehsadat Mireshghallah, Mohammad Malekzadeh
-
-Poster 44: Privacy-preserving Neural Network with Functional Encryption. Prajwal Panzade, Daniel Takabi
-
-Poster 46: Quantifying Privacy Risks of Masked Language Models Using Membership Inference Attacks. Fatemeh Mireshghallah, Kartik Goyal, Archit Uniyal, Taylor Berg-Kirkpatrick, Reza Shokri
+## Posters
+1. DP-SGD vs PATE: Which Has Less Disparate Impact on Model Accuracy? Archit Uniyal, Rakshit Naidu, Sasikanth Kotti, Sahib Singh, Patrik Joslin Kenfack, Fatemehsadat Mireshghallah, Andrew Trask
+2. Efficient Hyperparameter Optimization for Differentially Private Deep Learning. Aman Priyanshu, Rakshit Naidu, Fatemehsadat Mireshghallah, Mohammad Malekzadeh
+3. Privacy-preserving Neural Network with Functional Encryption. Prajwal Panzade, Daniel Takabi
+4. Quantifying Privacy Risks of Masked Language Models Using Membership Inference Attacks. Fatemeh Mireshghallah, Kartik Goyal, Archit Uniyal, Taylor Berg-Kirkpatrick, Reza Shokri
