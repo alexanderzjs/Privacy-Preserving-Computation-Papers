@@ -1,7 +1,7 @@
 # Privacy-Preserving-Computation-Papers
-This repo is used to collect all privacy preserving computation related papers from top security conferences. (This is only used for self reference.)
+This repo is used to collect privacy preserving computation related papers from top security conferences. The entire collecting process is time-consuming and it is highly possible that I missed some good papers.
 
-## Top conferences to be considered: 
+## Top security conferences
 1. IEEE Symposium on Security and Privacy (S&P)
 2. ACM Conference on Computer and Communications Security (CCS)
 3. USENIX Security Symposium (Security)
