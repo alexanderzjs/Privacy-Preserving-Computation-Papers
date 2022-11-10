@@ -1,0 +1,12 @@
+# 2022 Papers
+
+1. Binary Search in Secure Computation. Marina Blanton (University at Buffalo (SUNY)), Chen Yuan (University at Buffalo (SUNY))
+2. DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection. Phillip Rieger (Technical University of Darmstadt), Thien Duc Nguyen (Technical University of Darmstadt), Markus Miettinen (Technical University of Darmstadt), Ahmad-Reza Sadeghi (Technical University of Darmstadt)
+3. Local and Central Differential Privacy for Robustness and Privacy in Federated Learning. Mohammad Naseri (University College London), Jamie Hayes (DeepMind), Emiliano De Cristofaro (University College London & Alan Turing Institute)
+4. hbACSS: How to Robustly Share Many Secrets. Thomas Yurek (University of Illinois at Urbana-Champaign), Licheng Luo (University of Illinois at Urbana-Champaign), Jaiden Fairoze (University of California, Berkeley), Aniket Kate (Purdue University), Andrew Miller (University of Illinois at Urbana-Champaign)
+5. Property Inference Attacks Against GANs. Junhao Zhou (Xi'an Jiaotong University), Yufei Chen (Xi'an Jiaotong University), Chao Shen (Xi'an Jiaotong University), Yang Zhang (CISPA Helmholtz Center for Information Security)
+6. Clarion: Anonymous Communication from Multiparty Shuffling Protocols. Saba Eskandarian (University of North Carolina at Chapel Hill), Dan Boneh (Stanford University)
+7. Hybrid Trust Multi-party Computation with Trusted Execution Environment. Pengfei Wu (School of Computing, National University of Singapore), Jianting Ning (College of Computer and Cyber Security, Fujian Normal University; Institute of Information Engineering, Chinese Academy of Sciences), Jiamin Shen (School of Computing, National University of Singapore), Hongbing Wang (School of Computing, National University of Singapore), Ee-Chien Chang (School of Computing, National University of Singapore)
+8. MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity. Shengwei An (Purdue University), Guanhong Tao (Purdue University), Qiuling Xu (Purdue University), Yingqi Liu (Purdue University), Guangyu Shen (Purdue University); Yuan Yao (Nanjing University), Jingwei Xu (Nanjing University), Xiangyu Zhang (Purdue University)
+9. Tetrad: Actively Secure 4PC for Secure Training and Inference. Nishat Koti (IISc Bangalore), Arpita Patra (IISc Bangalore), Rahul Rachuri (Aarhus University, Denmark), Ajith Suresh (IISc, Bangalore)
+10. On Utility and Privacy in Synthetic Genomic Data. Bristena Oprisanu (UCL), Georgi Ganev (UCL & Hazy), Emiliano De Cristofaro (UCL)
