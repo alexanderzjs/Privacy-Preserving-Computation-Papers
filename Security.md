@@ -1,4 +1,4 @@
-# 2022 Security Papers and Posters
+# 2022 Papers and Posters
 ## Winter Papers
 1. Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks. Shawn Shan, Arjun Nitin Bhagoji, Haitao Zheng, and Ben Y. Zhao, University of Chicago
 2. Practical Privacy-Preserving Authentication for SSH. Lawrence Roy, Stanislav Lyakhov, Yeongjin Jang, and Mike Rosulek, Oregon State University
