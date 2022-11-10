@@ -1,2 +1,5 @@
-# 2022 CCS Papers and Posters
+# 2022 Papers and Posters
+## Papers
 1. 
+
+## Posters
