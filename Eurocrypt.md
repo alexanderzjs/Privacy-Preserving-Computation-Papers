@@ -12,3 +12,6 @@
 11. Round-Optimal Multi-Party Computation with Identifiable Abort. Michele Ciampi, Divya Ravi, Luisa Siniscalchi, Hendrik Waldner. The University of Edinburgh, Aarhus University
 12. Secure Multiparty Computation with Free Branching. Aarushi Goel, Mathias Hall-Andersen, Aditya Hegde, Abhishek Jain. Johns Hopkins University, Aarhus University
 13. Secure Multiparty Computation with Sublinear Preprocessing. Elette Boyle, Niv Gilboa, Yuval Ishai, Ariel Nof. IDC, Ben-Gurion University, Technion
+14. High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization. Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, HyungChul Kang. Samsung Advanced Institute of Technology, Seoul National University, Chosun University, DGIST
+15. Rubato: Noisy Ciphers for Approximate Homomorphic Encryption. Jincheol Ha, Seongkwang Kim, Byeonghak Lee, Jooyoung Lee, Mincheol Son. KAIST, Daejeon, Korea, Samsung SDS, Seoul, Korea
+16. 
