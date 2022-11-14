@@ -40,3 +40,64 @@
 39. Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It. Sílvia Casacuberta (Harvard University); Michael Shoemate (Harvard University); Salil Vadhan (Harvard University); Connor Wagaman (Boston University)
 40. pMPL: A Robust Multi-Party Learning Framework with a Privileged Party. Lushan Song (Fudan University); Jiaxuan Wang (Fudan University); Zhexuan Wang (Fudan University); Xinyu Tu (Fudan University); Guopeng Lin (Fudan University); Wenqiang Ruan (Fudan University); Haoqi Wu (Fudan University); Weili Han (Fudan University)
 
+# 2021 Papers and Posters
+## Papers
+1. AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy. Linkang Du (Zhejiang University); Zhikun Zhang (CISPA Helmholtz Center for Information Security); Shaojie Bai (Zhejiang University); Changchang Liu (IBM Research); Shouling Ji (Zhejiang University); Peng Cheng (Zhejiang University); Jiming Chen (Zhejiang University)
+2. Unleashing the Tiger: Inference Attacks on Split Learning. Dario Pasquini (Sapienza University of Rome; Institute of Applied Computing, IAC-CNR); Giuseppe Ateniese (Stevens Institute of Technology); Massimo Bernaschi (Institute of Applied Computing, IAC-CNR)
+3. "I need a better description": An Investigation Into User Expectations For Differential Privacy. Rachel Cummings (Columbia University); Gabriel Kaptchuk (Boston University); Elissa M. Redmiles (Max Planck Institute for Software Systems)
+4. QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field. Kang Yang (State Key Laboratory of Cryptology); Pratik Sarkar (Boston University); Chenkai Weng (Northwestern University); Xiao Wang (Northwestern University)
+5. It's Not What It Looks Like: Manipulating Perceptual Hashing based Applications. Qingying Hao (University of Illinois at Urbana-Champaign); Licheng Luo (University of Illinois at Urbana-Champaign); Steve TK Jan (University of Illinois at Urbana-Champaign); Gang Wang (University of Illinois at Urbana-Champaign)
+6. Secure Graph Analysis at Scale. Toshinori Araki (NEC); Jun Furukawa (NEC Israel Research Center); Benny Pinkas (VMware Research, Bar Ilan University); Kazuma Ohara (AIST); Hanan Rosemarin (Bar Ilan University); Hikaru Tsuchida (NEC corporation)
+7. Locally Private Graph Neural Networks. Sina Sajadmanesh (Idiap Research Institute, EPFL); Daniel Gatica-Perez (Idiap Research Institute, EPFL)
+8. A One-Pass Distributed and Private Sketch for Kernel Sums with Applications to Machine Learning at Scale. Benjamin Coleman (Rice University); Anshumali Shrivastava (Rice University)
+9. Membership Leakage in Label-Only Exposures. Zheng Li (CISPA Helmholtz Center for Information Security); Yang Zhang (CISPA Helmholtz Center for Information Security)
+10. DataLens: Scalable Privacy Preserving Training via Gradient Compression and Aggregation. Boxin Wang (University of Illinois at Urbana-Champaign); Fan Wu (UIUC); Yunhui Long (University of Illinois at Urbana-Champaign); Luka Rimanic (ETH Zurich); Ce Zhang (ETH Zurich); Bo Li (UIUC)
+11. Oblivious Linear Group Actions and Applications. Nuttapong Attrapadung (AIST, Japan); Goichiro Hanaoaka (AIST, Japan); Takahiro Matsuda (AIST, Japan); Hiraku Morita (University of St. Gallen, Switzerland); Kazuma Ohara (AIST, Japan); Jacob Schuldt (AIST, Japan); Tadanori Teruya (AIST, Japan); Kazunari Tozawa (University of Tokyo, Japan)
+12. Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI. Nishanth Chandran (Microsoft Research, Bangalore); Nishka Dasgupta (Microsoft Research, Bangalore); Divya Gupta (Microsoft Research, Bangalore); Sai Lakshmi Bhavana Obbattu (Microsoft Research, Bangalore); Sruthi Sekar (Indian Institute of Science, Bangalore); Akash Shah (Microsoft Research, Bangalore)
+13. Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs. Mohammad Malekzadeh (Imperial College London); Anastasia Borovykh (Imperial College London); Deniz Gunduz (Imperial College London)
+14. Differential Privacy for Directional Data. Benjamin Weggenmann (SAP SE); Florian Kerschbaum (University of Waterloo)
+15. Differentially private sparse vectors with low error, optimal space, and fast access. Martin Aumüller (IT University of Copenhagen); Christian Janos Lebeda (BARC and IT University of Copenhagen); Rasmus Pagh (BARC and University of Copenhagen)
+16. EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning. Hongbin Liu (Duke University); Jinyuan Jia (Duke University); Wenjie Qu (Huazhong University of Science and Technology); Neil Gong (Duke University)
+17. Subpopulation Data Poisoning Attacks. Matthew Jagielski (Northeastern University); Giorgio Severi (Northeastern University); Niklas Pousette Harger (Northeastern University); Alina Oprea (Northeastern University)
+18. Continuous Release of Data Streams under both Centralized and Local Differential Privacy. Tianhao Wang (Purdue University); Joann Qiongna Chen (University of California, Irvine); Zhikun Zhang (CISPA Helmholtz Center for Information Security); Dong Su (Alibaba); Yueqiang Cheng (NIO Security Research); Zhou Li (University of California, Irvine); Ninghui Li (Purdue University); Somesh Jha (University of Wisconsin)
+19. Labeled PSI from Homomorphic Encryption with Reduced Computation and Communication. Kelong Cong (imec-COSIC, KU Leuven); Radames Cruz Moreno (Microsoft Research); Mariana Botelho da Gama (imec-COSIC, KU Leuven); Wei Dai (Microsoft Research); Ilia Iliashenko (imec-COSIC, KU Leuven); Kim Laine (Microsoft Research); Michael Rosenberg (University of Maryland)
+20. One Hot Garbling. David Heath (Georgia Institute of Technology); Vladimir Kolesnikov (Georgia Institute of Technology)
+21. Quantifying and Mitigating Privacy Risks of Contrastive Learning. Xinlei He (CISPA Helmholtz Center for Information Security); Yang Zhang (CISPA Helmholtz Center for Information Security)
+22. Membership Inference Attacks Against Recommender Systems. Minxing Zhang (Shandong University); Zihan Wang (Shandong University); Yang Zhang (CISPA Helmholtz Center for Information Security); Zhaochun Ren (Shandong University); Pengjie Ren (Shandong University); Zhunmin Chen (Shandong University); Pengfei Hu (Shandong University)
+23. Simple, Fast Malicious Multiparty Private Set Intersection. Ofri Nevo (Open University of Israel); Ni Trieu (Arizona State University); Avishay Yanai (VMware Research)
+24. Compact and Malicious Private Set Intersection for Small Sets. Mike Rosulek (Oregon State University); Ni Trieu (Arizona State University)
+25. Epsolute: Efficiently Querying Databases While Providing Differential Privacy. Dmytro Bogatov (Boston University); Georgios Kellaris (Boston University); George Kollios (Boston University); Kobbi Nissim (Georgetown University); Adam O'Neill (University of Massachusetts, Amherst)
+26. Compressed Oblivious Encoding for Homomorphically Encrypted Search. Seung Geol Choi (US Naval Academy); Dana Dachman-Soled (University of Maryland, College Park); S. Dov Gordon (George Mason University); Linsheng Liu (George Washington University); Arkady Yerukhimovich (George Washington University)
+27. On the Renyi Differential Privacy of the Shuffle Model. Antonious M. Girgis (University of California Los Angeles, USA); Deepesh Data (University of California Los Angeles, USA); Suhas Diggavi (University of California Los Angeles, USA); Ananda Suresh (Google Research); Peter Kairouz (Google Research)
+28. COINN: Crypto/ML Codesign for Oblivious Inference via Neural Networks. Siam U. Hussain (University of California San Diego); Mojan Javaheripi (University of California San Diego); Mohammad Samragh (University of California San Diego); Farinaz Koushanfar (University of California San Diego)
+29. OnionPIR: Response Efficient Single-Server PIR. Muhammad Haris Mughees (University of Illinois at Urbana-Champaign); Hao Chen (Facebook, USA); Ling Ren (University of Illinois at Urbana-Champaign);
+30. Private Hierarchical Clustering in Federated Networks. Aashish Kolluri (National University Of Singapore); Teodora Baluta (National University of Singapore); Prateek Saxena (National University of Singapore)
+
+## Posters
+1. Revisiting Hybrid Private Information Retrieval. Daniel Günther (Technical University of Darmstadt); Thomas Schneider (Technical University of Darmstadt); Felix Wiegand (Technical University of Darmstadt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
